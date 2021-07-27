@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ahmed Ayman</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on Ahmed Ayman</description>
+    <image>
+      <url>https://examplesite.com/static/</url>
+      <link>https://examplesite.com/static/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 28 Jul 2021 01:21:21 +0200</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SDLC</title>
+      <link>https://examplesite.com/blog/devops/sdlc/</link>
+      <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/sdlc/</guid>
+      <description>Software Development Life Cycle (SDLC) What is SDLC ?  The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. In other words SDLC is a methodology to follow while creating softwares in an efficient and organized manner instead of just working on creating softwares without guidelines which will eventually cause errors and delivery delays, which will increase the cost. SDLC or the Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time possible.</description>
+    </item>
+    
+    <item>
+      <title>Intro &amp; Installation</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-i/</link>
+      <pubDate>Tue, 27 Jul 2021 14:50:40 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-i/</guid>
+      <description>Diving with the Whale - Docker Day I - Intro &amp;amp; Installation Author : Ahmed Ayman
+ &amp;ldquo;Believe it or not, Evergreen vs. the Suez Canal was NOT the biggest container event of the year. #DockerCon is!&amp;rdquo;
+  Docker official page on Facebook.  Containers Overview What are Containers ? Containers, in short, contain applications in a way that keep them isolated from the host system that they run on.</description>
+    </item>
+    
+    <item>
+      <title>OSCGeeks</title>
+      <link>https://examplesite.com/projects/devops/oscgeeks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/projects/devops/oscgeeks/</guid>
+      <description>SOURCE CODE OSCGEEKS.ORG is the official website of the Open Source Community at ASU-FCIS. Deployment Stack  PHP : Laravel -&amp;gt; Backend MySql -&amp;gt; Database Nginx -&amp;gt; WebServer Docker -&amp;gt; php Container Dockerfile Docker-Compose -&amp;gt; running the Multi-Container app docker-compose file  The deployment stack is running on top of Docker multi-container web app. check docker-compose file here
+How to Run Locally ?  clone the repository  git clone https://github.</description>
+    </item>
+    
+    <item>
+      <title>CI / CD</title>
+      <link>https://examplesite.com/blog/devops/ci-cd/</link>
+      <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/ci-cd/</guid>
+      <description>Continuous Integration (CI) And Continuous Delivery (CD) What Is Continuous Integration And Continuous Delivery(CI/CD) ?   Continuous integration and Continuous Delivery(CI/CD) are the processes, where your development team involves frequent code changes that are pushed in the main branch while ensuring that it does not impact any changes made by developers working in parallel.
+  The aim of it is to reduce the chance of defects and conflicts during the integration of the complete project.</description>
+    </item>
+    
+    <item>
+      <title>Containers &amp; Images Management</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-ii/</link>
+      <pubDate>Tue, 27 Jul 2021 15:53:08 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-ii/</guid>
+      <description>Diving with the Whale - Docker Day II - Containers &amp;amp; Images Management Author : Ahmed Ayman
+Stuff You Should know  ONLY ONE!  Docker containers are designed to run only one process.   Ephemeral (lasting for a very short time)  Docker containers are meant to be ephemeral, once their process completes the container goes to sleep, and it&amp;rsquo;s memories about anything happened while it was running goes with it !</description>
+    </item>
+    
+    <item>
+      <title>Goviolin</title>
+      <link>https://examplesite.com/projects/devops/goviolin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/projects/devops/goviolin/</guid>
+      <description>Forked from Rosalita/GoViolin to practice DevOps Concepts and tools : CI/CD using Jenkins and GitHub Actions, Containerization using Docker, Deploying using Kubernetes. GoViolin is a web app written in Go that helps with violin practice. SOURCE CODE Currently hosted on Heroku at https://go-violin.herokuapp.com/
+Table of Contencts  Features Used DevOps Tools and Technologies Run using Docker Enable Jenkins pipeline on your machine Dockeraize GoViolin - How ? Building the pipeline Deployment on Kubernetes GitHub Actions Workflow Jenkins Console Output Success Emails Pipeline Features  Features GoViolin allows practice over both 1 and 2 octaves.</description>
+    </item>
+    
+    <item>
+      <title>Persisting Data &amp; Docker Files</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-iii/</link>
+      <pubDate>Wed, 28 Jul 2021 00:34:06 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-iii/</guid>
+      <description>Diving with the Whale - Docker Day III - Persisting Data &amp;amp; Docker Files Author : Ahmed Ayman
+Remember when I said No persisting data with a really bold font? well I lied ! 😅 Persisting Data Containers are designed to be ephemeral and isolated from the host machine. This creates problems when data is involved.
+BUT, There is two ways around it actually
+1. Mapping Volumes Just the same as we mapped ports we can map directories from the host machine to a container directory, so anything happens here happens there and vice versa.</description>
+    </item>
+    
+    <item>
+      <title>Introduction To DevOps</title>
+      <link>https://examplesite.com/blog/devops/intro-to-devops/</link>
+      <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/intro-to-devops/</guid>
+      <description>DEVELOPMENT OPERATIONS (DEVOPS) What is DevOps ?   DevOps is the practice of operations and development engineers participating together in the entire software development life cycle.
+  The DevOps is a combination of two words, one is software Development, and second is Operations. This allows a single team to handle the entire application life-cycle, from development to testing, deployment, and operations.
+  DevOps helps you to reduce the disconnection between software developers, quality assurance (QA) engineers, and system administrators.</description>
+    </item>
+    
+    <item>
+      <title>To Do List with Flask, Docker, and GitHub Actions</title>
+      <link>https://examplesite.com/projects/devops/todolist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/projects/devops/todolist/</guid>
+      <description>Simple Web App to practice Flask, Docker, and GitHub Actions Hands-On LIVE DEMO SOURCE CODE Running Try it out live on heroku! TO DO LIST
+USING DOCKER - PULLING FROM DOCKER HUB # pull the image from docker hub $ docker pull a7medayman6/todolist-flask # create docker volume for the database to keep your tasks everytime you run ir $ docker volume create todolist.db # run the container # map port 5000 in the container to 5001 (or any other free port) # map the docker volume you created to /app/db $ docker run -d -p 5001:5000 -v todolist.</description>
+    </item>
+    
+    <item>
+      <title>Docker Networking, Entry Points, and more.</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-iv/</link>
+      <pubDate>Wed, 28 Jul 2021 01:16:57 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-iv/</guid>
+      <description>Diving with the Whale - Docker Day IV - Docker Networking, Entry Points, and more. Docker Networking How can we let two or more containers talking to each other ? through docker containers!
+Networking in containers is controlling who can talk to who including all the running containers, and the local-host.
+  Docker Network Drivers
+Several drivers exist by default in docker, and provide core networking functionality
+  Bridge Network</description>
+    </item>
+    
+    <item>
+      <title>Devops Lifecycle</title>
+      <link>https://examplesite.com/blog/devops/devops-lifecycle/</link>
+      <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/devops-lifecycle/</guid>
+      <description>1. Continuous Development  This phase involves the planning and coding of the software. The vision of the project is decided during the planning phase. The developers begin developing the code for the application. here are no DevOps tools that are required for planning, but there are several tools for maintaining the code.  2. Continuous Integration  The developers require to commit changes to the source code more frequently. This may be on a daily or weekly basis.</description>
+    </item>
+    
+    <item>
+      <title>Hello World From Container - Flask Web App</title>
+      <link>https://examplesite.com/projects/devops/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/projects/devops/hello-world/</guid>
+      <description>Demo flask Web App to practice Docker Basics. Source Code BUILD git clone . cd Hello-World-From-Container docker build -t hello-world:latest . docker run -p 5001:5000 hello-world # visit http:/0.0.0.0:5001 to see the web site presnting the container id it&amp;#39;s running from! Or pull it from docker hub! docker pull a7medayman6/hello-world-flask docker run -p 5001:5000 hello-world-flask # visit http:/0.0.0.0:5001 to see the web site presnting the container id it&amp;#39;s running from! Preview Same Container name!</description>
+    </item>
+    
+    <item>
+      <title>Docker Compose and Multi-Container Apps</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-v/</link>
+      <pubDate>Wed, 28 Jul 2021 01:21:21 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-v/</guid>
+      <description>Diving with the Whale - Docker Day V - Docker Compose and Multi-Container Apps Author : Ahmed Ayman
+Container Orchestration Container orchestration is the automatic process of managing or scheduling the work of individual containers for applications based on micro-services within multiple clusters. The widely deployed container orchestration platforms are based on open-source versions like Kubernetes, Docker Swarm or the commercial version from Red Hat Open-shift.
+If you want to manage tens, hundreds, or even thousands of containers, you don&amp;rsquo;t want to do that manually of course !</description>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>https://examplesite.com/blog/devops/jenkins/</link>
+      <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/jenkins/</guid>
+      <description>What is Jenkins ?  It is a Continuous Integration (CI) &amp;amp; Continuous Delivery(CD) Tool which are integral parts of Dev-Ops. Jenkins is an open-source server that is written entirely in Java. Jenkins should be installed on a server where the central build will take place.  How Jenkins Works Jenkins History you can skip this part
+ Hudson is a very popular open-source Java-based continuous integration tool developed by Sun Microsystems which was later acquired by Oracle.</description>
+    </item>
+    
+  </channel>
+</rss>

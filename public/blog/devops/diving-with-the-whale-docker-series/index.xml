@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Diving With the Whale - Docker Series on Ahmed Ayman</title>
+    <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/</link>
+    <description>Recent content in Diving With the Whale - Docker Series on Ahmed Ayman</description>
+    <image>
+      <url>https://examplesite.com/static/</url>
+      <link>https://examplesite.com/static/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 28 Jul 2021 01:21:21 +0200</lastBuildDate><atom:link href="https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro &amp; Installation</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-i/</link>
+      <pubDate>Tue, 27 Jul 2021 14:50:40 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-i/</guid>
+      <description>Diving with the Whale - Docker Day I - Intro &amp;amp; Installation Author : Ahmed Ayman
+ &amp;ldquo;Believe it or not, Evergreen vs. the Suez Canal was NOT the biggest container event of the year. #DockerCon is!&amp;rdquo;
+  Docker official page on Facebook.  Containers Overview What are Containers ? Containers, in short, contain applications in a way that keep them isolated from the host system that they run on.</description>
+    </item>
+    
+    <item>
+      <title>Containers &amp; Images Management</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-ii/</link>
+      <pubDate>Tue, 27 Jul 2021 15:53:08 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-ii/</guid>
+      <description>Diving with the Whale - Docker Day II - Containers &amp;amp; Images Management Author : Ahmed Ayman
+Stuff You Should know  ONLY ONE!  Docker containers are designed to run only one process.   Ephemeral (lasting for a very short time)  Docker containers are meant to be ephemeral, once their process completes the container goes to sleep, and it&amp;rsquo;s memories about anything happened while it was running goes with it !</description>
+    </item>
+    
+    <item>
+      <title>Persisting Data &amp; Docker Files</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-iii/</link>
+      <pubDate>Wed, 28 Jul 2021 00:34:06 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-iii/</guid>
+      <description>Diving with the Whale - Docker Day III - Persisting Data &amp;amp; Docker Files Author : Ahmed Ayman
+Remember when I said No persisting data with a really bold font? well I lied ! 😅 Persisting Data Containers are designed to be ephemeral and isolated from the host machine. This creates problems when data is involved.
+BUT, There is two ways around it actually
+1. Mapping Volumes Just the same as we mapped ports we can map directories from the host machine to a container directory, so anything happens here happens there and vice versa.</description>
+    </item>
+    
+    <item>
+      <title>Docker Networking, Entry Points, and more.</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-iv/</link>
+      <pubDate>Wed, 28 Jul 2021 01:16:57 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-iv/</guid>
+      <description>Diving with the Whale - Docker Day IV - Docker Networking, Entry Points, and more. Docker Networking How can we let two or more containers talking to each other ? through docker containers!
+Networking in containers is controlling who can talk to who including all the running containers, and the local-host.
+  Docker Network Drivers
+Several drivers exist by default in docker, and provide core networking functionality
+  Bridge Network</description>
+    </item>
+    
+    <item>
+      <title>Docker Compose and Multi-Container Apps</title>
+      <link>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-v/</link>
+      <pubDate>Wed, 28 Jul 2021 01:21:21 +0200</pubDate>
+      
+      <guid>https://examplesite.com/blog/devops/diving-with-the-whale-docker-series/day-v/</guid>
+      <description>Diving with the Whale - Docker Day V - Docker Compose and Multi-Container Apps Author : Ahmed Ayman
+Container Orchestration Container orchestration is the automatic process of managing or scheduling the work of individual containers for applications based on micro-services within multiple clusters. The widely deployed container orchestration platforms are based on open-source versions like Kubernetes, Docker Swarm or the commercial version from Red Hat Open-shift.
+If you want to manage tens, hundreds, or even thousands of containers, you don&amp;rsquo;t want to do that manually of course !</description>
+    </item>
+    
+  </channel>
+</rss>
