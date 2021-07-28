@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docker on Ahmed Ayman</title>
-    <link>https://examplesite.com/tags/docker/</link>
+    <link>https://a7medayman.netlify.app/tags/docker/</link>
     <description>Recent content in Docker on Ahmed Ayman</description>
     <image>
-      <url>https://examplesite.com/static/</url>
-      <link>https://examplesite.com/static/</link>
+      <url>https://a7medayman.netlify.app/static/</url>
+      <link>https://a7medayman.netlify.app/static/</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://a7medayman.netlify.app/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World From Container - Flask Web App</title>
-      <link>https://examplesite.com/projects/devops/hello-world/</link>
+      <link>https://a7medayman.netlify.app/projects/devops/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/projects/devops/hello-world/</guid>
+      <guid>https://a7medayman.netlify.app/projects/devops/hello-world/</guid>
       <description>Demo flask Web App to practice Docker Basics. Source Code BUILD git clone . cd Hello-World-From-Container docker build -t hello-world:latest . docker run -p 5001:5000 hello-world # visit http:/0.0.0.0:5001 to see the web site presnting the container id it&amp;#39;s running from! Or pull it from docker hub! docker pull a7medayman6/hello-world-flask docker run -p 5001:5000 hello-world-flask # visit http:/0.0.0.0:5001 to see the web site presnting the container id it&amp;#39;s running from! Preview Same Container name!</description>
     </item>
     

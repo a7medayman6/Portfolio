@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DevOps on Ahmed Ayman</title>
-    <link>https://examplesite.com/blog/devops/</link>
+    <link>https://a7medayman.netlify.app/blog/devops/</link>
     <description>Recent content in DevOps on Ahmed Ayman</description>
     <image>
-      <url>https://examplesite.com/static/</url>
-      <link>https://examplesite.com/static/</link>
+      <url>https://a7medayman.netlify.app/static/</url>
+      <link>https://a7medayman.netlify.app/static/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 28 Jul 2021 01:12:09 +0200</lastBuildDate><atom:link href="https://examplesite.com/blog/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 01:12:09 +0200</lastBuildDate><atom:link href="https://a7medayman.netlify.app/blog/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SDLC</title>
-      <link>https://examplesite.com/blog/devops/sdlc/</link>
+      <link>https://a7medayman.netlify.app/blog/devops/sdlc/</link>
       <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
       
-      <guid>https://examplesite.com/blog/devops/sdlc/</guid>
+      <guid>https://a7medayman.netlify.app/blog/devops/sdlc/</guid>
       <description>Software Development Life Cycle (SDLC) What is SDLC ?  The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. In other words SDLC is a methodology to follow while creating softwares in an efficient and organized manner instead of just working on creating softwares without guidelines which will eventually cause errors and delivery delays, which will increase the cost. SDLC or the Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time possible.</description>
     </item>
     
     <item>
       <title>CI / CD</title>
-      <link>https://examplesite.com/blog/devops/ci-cd/</link>
+      <link>https://a7medayman.netlify.app/blog/devops/ci-cd/</link>
       <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
       
-      <guid>https://examplesite.com/blog/devops/ci-cd/</guid>
+      <guid>https://a7medayman.netlify.app/blog/devops/ci-cd/</guid>
       <description>Continuous Integration (CI) And Continuous Delivery (CD) What Is Continuous Integration And Continuous Delivery(CI/CD) ?   Continuous integration and Continuous Delivery(CI/CD) are the processes, where your development team involves frequent code changes that are pushed in the main branch while ensuring that it does not impact any changes made by developers working in parallel.
   The aim of it is to reduce the chance of defects and conflicts during the integration of the complete project.</description>
     </item>
     
     <item>
       <title>Introduction To DevOps</title>
-      <link>https://examplesite.com/blog/devops/intro-to-devops/</link>
+      <link>https://a7medayman.netlify.app/blog/devops/intro-to-devops/</link>
       <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
       
-      <guid>https://examplesite.com/blog/devops/intro-to-devops/</guid>
+      <guid>https://a7medayman.netlify.app/blog/devops/intro-to-devops/</guid>
       <description>DEVELOPMENT OPERATIONS (DEVOPS) What is DevOps ?   DevOps is the practice of operations and development engineers participating together in the entire software development life cycle.
   The DevOps is a combination of two words, one is software Development, and second is Operations. This allows a single team to handle the entire application life-cycle, from development to testing, deployment, and operations.
   DevOps helps you to reduce the disconnection between software developers, quality assurance (QA) engineers, and system administrators.</description>
@@ -42,19 +42,19 @@
     
     <item>
       <title>Devops Lifecycle</title>
-      <link>https://examplesite.com/blog/devops/devops-lifecycle/</link>
+      <link>https://a7medayman.netlify.app/blog/devops/devops-lifecycle/</link>
       <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
       
-      <guid>https://examplesite.com/blog/devops/devops-lifecycle/</guid>
+      <guid>https://a7medayman.netlify.app/blog/devops/devops-lifecycle/</guid>
       <description>1. Continuous Development  This phase involves the planning and coding of the software. The vision of the project is decided during the planning phase. The developers begin developing the code for the application. here are no DevOps tools that are required for planning, but there are several tools for maintaining the code.  2. Continuous Integration  The developers require to commit changes to the source code more frequently. This may be on a daily or weekly basis.</description>
     </item>
     
     <item>
       <title>Jenkins</title>
-      <link>https://examplesite.com/blog/devops/jenkins/</link>
+      <link>https://a7medayman.netlify.app/blog/devops/jenkins/</link>
       <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
       
-      <guid>https://examplesite.com/blog/devops/jenkins/</guid>
+      <guid>https://a7medayman.netlify.app/blog/devops/jenkins/</guid>
       <description>What is Jenkins ?  It is a Continuous Integration (CI) &amp;amp; Continuous Delivery(CD) Tool which are integral parts of Dev-Ops. Jenkins is an open-source server that is written entirely in Java. Jenkins should be installed on a server where the central build will take place.  How Jenkins Works Jenkins History you can skip this part
  Hudson is a very popular open-source Java-based continuous integration tool developed by Sun Microsystems which was later acquired by Oracle.</description>
     </item>
