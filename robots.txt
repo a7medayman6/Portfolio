@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://a7medayman6.github.io/sitemap.xml
