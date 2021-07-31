@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Ahmed Ayman</title>
-    <link>https://a7medayman.netlify.app/blog/</link>
+    <link>https://a7medayman6.github.io/blog/</link>
     <description>Recent content in Blogs on Ahmed Ayman</description>
     <image>
-      <url>https://a7medayman.netlify.app/static/</url>
-      <link>https://a7medayman.netlify.app/static/</link>
+      <url>https://a7medayman6.github.io/static/</url>
+      <link>https://a7medayman6.github.io/static/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 28 Jul 2021 01:21:21 +0200</lastBuildDate><atom:link href="https://a7medayman.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 01:21:21 +0200</lastBuildDate><atom:link href="https://a7medayman6.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

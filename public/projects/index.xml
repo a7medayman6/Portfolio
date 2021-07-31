@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Ahmed Ayman</title>
-    <link>https://a7medayman.netlify.app/projects/</link>
+    <link>https://a7medayman6.github.io/projects/</link>
     <description>Recent content in Projects on Ahmed Ayman</description>
     <image>
-      <url>https://a7medayman.netlify.app/static/</url>
-      <link>https://a7medayman.netlify.app/static/</link>
+      <url>https://a7medayman6.github.io/static/</url>
+      <link>https://a7medayman6.github.io/static/</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://a7medayman.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://a7medayman6.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
