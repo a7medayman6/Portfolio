@@ -161,7 +161,16 @@ If you want to manage tens, hundreds, or even thousands of containers, you don&a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://a7medayman6.github.io/about/</guid>
-      <description></description>
+      <description>Hey There, am Ahmed Ayman, senior computer science student in Ain Shams University.  I am currently interested in software architecture, specifically DevOps, and Cyber Security. I play Chess, a lot ! ping me if you&amp;rsquo;re up for a challenge me on lichess I like to write and document my learning journy so go visit the Blog or Thoughts sections to read some of my technical and non-technical stuff. I had expereince in various things including   Web Development Linux System Administration Technical Writing Problem Solving - check my LeetCode Account or my 100 days of LeetCode challenge DevOps   I like to explore new technologies and create personal projects.</description>
+    </item>
+    
+    <item>
+      <title>LIFE IS DETERMINISTIC, HMMMM, OR NOT.</title>
+      <link>https://a7medayman6.github.io/thoughts/determinism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a7medayman6.github.io/thoughts/determinism/</guid>
+      <description>If someday, somehow we managed to see the future, that means the future is deterministic. It means that every thing that will ever happen is predetermined; because if we can see it or predict it with some technology then it’s already there, and our choices have been already made! We just had to observe it. Let’s just assume for a minute that we’re okay with living without free-will. But now when we know exactly what’s gonna happen after say five seconds from now, you can change it right?</description>
     </item>
     
   </channel>

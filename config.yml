@@ -38,8 +38,6 @@ params:
     hideSummary: false
     showtoc: true
     tocopen: false
-    cover.hidden: false
-    cover.image: '/cover.jpg'
     
 
     assets:
@@ -67,9 +65,8 @@ params:
         imageTitle: profilepic
         buttons:
             - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+              url: blog
+            
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
@@ -84,6 +81,10 @@ params:
           url: "https://github.com/a7medayman6"
         - name: email
           url: "mailto:a.ayman6000@gmail.com"
+        - name: LeetCode
+          url: https://leetcode.com/a7medayman6/
+        - name: LiChess
+          url: https://lichess.org/@/A7medayman6 
     analytics:
         google:
             SiteVerificationTag: "XYZabc"
@@ -126,6 +127,11 @@ menu:
           name: Blog
           url: /blog/
           weight: 30
+        - identifier: Thoughts
+          name: Thoughts
+          url: /thoughts/
+          weight: 30
+        
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

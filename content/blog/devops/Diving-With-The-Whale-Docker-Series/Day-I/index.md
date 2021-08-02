@@ -97,7 +97,7 @@ Then the QA team would only need to run the container image to replicate the dev
 
  
 
-![images/Diving%20with%20the%20Whale%20-%20Docker%20Day%20I%20-%20Intro%20&%20Ins%2081c0f122cedb4a0bbddb26ba8c37e861/Untitled%205.png](/blog/devops/docker-series/day-1/Untitled\ 5.png)
+![images/Diving%20with%20the%20Whale%20-%20Docker%20Day%20I%20-%20Intro%20&%20Ins%2081c0f122cedb4a0bbddb26ba8c37e861/Untitled%205.png](/blog/devops/docker-series/day-1/Untitled%205.png)
 
 ## What is Docker-file ?
 
