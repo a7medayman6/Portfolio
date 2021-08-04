@@ -12,6 +12,7 @@ disableShare: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: false
 author: 'Ahmed Ayman'
+weight: 1
 ---
 
 If someday, somehow we managed to see the future, that means the future is deterministic. It means that every thing that will ever happen is predetermined; because if we can see it or predict it with some technology then it’s already there, and our choices have been already made! We just had to observe it.
