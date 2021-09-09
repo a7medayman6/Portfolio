@@ -115,16 +115,6 @@ BUT, There is two ways around it actually
     </item>
     
     <item>
-      <title>Jenkins</title>
-      <link>https://a7medayman6.github.io/blog/devops/jenkins/</link>
-      <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
-      
-      <guid>https://a7medayman6.github.io/blog/devops/jenkins/</guid>
-      <description>What is Jenkins ?  It is a Continuous Integration (CI) &amp;amp; Continuous Delivery(CD) Tool which are integral parts of Dev-Ops. Jenkins is an open-source server that is written entirely in Java. Jenkins should be installed on a server where the central build will take place.  How Jenkins Works Jenkins History you can skip this part
- Hudson is a very popular open-source Java-based continuous integration tool developed by Sun Microsystems which was later acquired by Oracle.</description>
-    </item>
-    
-    <item>
       <title>To Do List with Flask, Docker, and GitHub Actions</title>
       <link>https://a7medayman6.github.io/projects/devops/todolist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,15 +138,6 @@ Several drivers exist by default in docker, and provide core networking function
     </item>
     
     <item>
-      <title>Devops Lifecycle</title>
-      <link>https://a7medayman6.github.io/blog/devops/devops-lifecycle/</link>
-      <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
-      
-      <guid>https://a7medayman6.github.io/blog/devops/devops-lifecycle/</guid>
-      <description>1. Continuous Development  This phase involves the planning and coding of the software. The vision of the project is decided during the planning phase. The developers begin developing the code for the application. here are no DevOps tools that are required for planning, but there are several tools for maintaining the code.  2. Continuous Integration  The developers require to commit changes to the source code more frequently. This may be on a daily or weekly basis.</description>
-    </item>
-    
-    <item>
       <title>Hello World From Container - Flask Web App</title>
       <link>https://a7medayman6.github.io/projects/devops/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -177,6 +158,15 @@ If you want to manage tens, hundreds, or even thousands of containers, you don&a
     </item>
     
     <item>
+      <title>SDLC</title>
+      <link>https://a7medayman6.github.io/blog/devops/sdlc/</link>
+      <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
+      
+      <guid>https://a7medayman6.github.io/blog/devops/sdlc/</guid>
+      <description>Software Development Life Cycle (SDLC) What is SDLC ?  The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. In other words SDLC is a methodology to follow while creating softwares in an efficient and organized manner instead of just working on creating softwares without guidelines which will eventually cause errors and delivery delays, which will increase the cost. SDLC or the Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time possible.</description>
+    </item>
+    
+    <item>
       <title>Introduction To DevOps</title>
       <link>https://a7medayman6.github.io/blog/devops/intro-to-devops/</link>
       <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
@@ -185,6 +175,15 @@ If you want to manage tens, hundreds, or even thousands of containers, you don&a
       <description>DEVELOPMENT OPERATIONS (DEVOPS) What is DevOps ?   DevOps is the practice of operations and development engineers participating together in the entire software development life cycle.
   The DevOps is a combination of two words, one is software Development, and second is Operations. This allows a single team to handle the entire application life-cycle, from development to testing, deployment, and operations.
   DevOps helps you to reduce the disconnection between software developers, quality assurance (QA) engineers, and system administrators.</description>
+    </item>
+    
+    <item>
+      <title>Devops Lifecycle</title>
+      <link>https://a7medayman6.github.io/blog/devops/devops-lifecycle/</link>
+      <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
+      
+      <guid>https://a7medayman6.github.io/blog/devops/devops-lifecycle/</guid>
+      <description>1. Continuous Development  This phase involves the planning and coding of the software. The vision of the project is decided during the planning phase. The developers begin developing the code for the application. here are no DevOps tools that are required for planning, but there are several tools for maintaining the code.  2. Continuous Integration  The developers require to commit changes to the source code more frequently. This may be on a daily or weekly basis.</description>
     </item>
     
     <item>
@@ -198,12 +197,13 @@ If you want to manage tens, hundreds, or even thousands of containers, you don&a
     </item>
     
     <item>
-      <title>SDLC</title>
-      <link>https://a7medayman6.github.io/blog/devops/sdlc/</link>
+      <title>Jenkins</title>
+      <link>https://a7medayman6.github.io/blog/devops/jenkins/</link>
       <pubDate>Wed, 28 Jul 2021 00:10:45 +0200</pubDate>
       
-      <guid>https://a7medayman6.github.io/blog/devops/sdlc/</guid>
-      <description>Software Development Life Cycle (SDLC) What is SDLC ?  The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. In other words SDLC is a methodology to follow while creating softwares in an efficient and organized manner instead of just working on creating softwares without guidelines which will eventually cause errors and delivery delays, which will increase the cost. SDLC or the Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time possible.</description>
+      <guid>https://a7medayman6.github.io/blog/devops/jenkins/</guid>
+      <description>What is Jenkins ?  It is a Continuous Integration (CI) &amp;amp; Continuous Delivery(CD) Tool which are integral parts of Dev-Ops. Jenkins is an open-source server that is written entirely in Java. Jenkins should be installed on a server where the central build will take place.  How Jenkins Works Jenkins History you can skip this part
+ Hudson is a very popular open-source Java-based continuous integration tool developed by Sun Microsystems which was later acquired by Oracle.</description>
     </item>
     
     <item>
