@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Symphony - Container Orcherstration Series - K8s on Ahmed Ayman</title>
+    <link>https://a7medayman6.github.io/blog/devops/symphony-k8s/</link>
+    <description>Recent content in Symphony - Container Orcherstration Series - K8s on Ahmed Ayman</description>
+    <image>
+      <url>https://a7medayman6.github.io/static/</url>
+      <link>https://a7medayman6.github.io/static/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Sep 2021 16:59:49 +0200</lastBuildDate><atom:link href="https://a7medayman6.github.io/blog/devops/symphony-k8s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sympohny I - Intro</title>
+      <link>https://a7medayman6.github.io/blog/devops/symphony-k8s/day-1/</link>
+      <pubDate>Thu, 09 Sep 2021 19:22:26 +0200</pubDate>
+      
+      <guid>https://a7medayman6.github.io/blog/devops/symphony-k8s/day-1/</guid>
+      <description>Containers Orchestration Author : Ahmed Ayman
+What is container orchestration ? Well, imagine you have an app that works with 3 containers for example back-end, front-end, database, when you deploy this application you can&amp;rsquo;t just work with one instance of each container on 1 server. Because if there&amp;rsquo;s a lot of traffic coming one server won&amp;rsquo;t be enough to process them at the same time, and you&amp;rsquo;ll end up with a dead server.</description>
+    </item>
+    
+    <item>
+      <title>Symphony II -  K8s Architecture</title>
+      <link>https://a7medayman6.github.io/blog/devops/symphony-k8s/day-2/</link>
+      <pubDate>Thu, 09 Sep 2021 19:22:29 +0200</pubDate>
+      
+      <guid>https://a7medayman6.github.io/blog/devops/symphony-k8s/day-2/</guid>
+      <description>Containers Orchestration Author : Ahmed Ayman
+The Desired State What does that even mean ? well, let&amp;rsquo;s think of k8s as a genie, we wish and desire things and he makes sure it happens.
+So, the desired state is a manifest written by the administrator (or k8s user at this case) to tell k8s exactly the state that we want the application to be in at all times, for example .</description>
+    </item>
+    
+    <item>
+      <title>Symphony III - Services</title>
+      <link>https://a7medayman6.github.io/blog/devops/symphony-k8s/day-3/</link>
+      <pubDate>Thu, 09 Sep 2021 19:22:32 +0200</pubDate>
+      
+      <guid>https://a7medayman6.github.io/blog/devops/symphony-k8s/day-3/</guid>
+      <description>Containers Orchestration Author : Ahmed Ayman
+Can you spot the problem ? PODS GETS CREATED AND DESTROYED ALL THE TIME!
+How can we we count on there IP addresses, also how can we communicate with all the the pods of the same kind at once ?
+The Solution : K8s Services One of the best features Kubernetes offers is that non-functioning pods get replaced by new ones automatically. however these new pods have a different set of IPs.</description>
+    </item>
+    
+  </channel>
+</rss>
