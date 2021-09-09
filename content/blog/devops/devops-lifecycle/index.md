@@ -5,9 +5,7 @@ draft: false
 ShowReadingTime: true
 hideSummary: false
 showtoc: true
-cover: 
-    image: ''
-weight: 4
+weight: 30
 ---
 
 

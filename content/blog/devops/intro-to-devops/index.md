@@ -5,9 +5,7 @@ draft: false
 ShowReadingTime: true
 hideSummary: false
 showtoc: true
-cover: 
-    image: ''
-weight: 5
+weight: 20
 ---
 
 # DEVELOPMENT OPERATIONS (DEVOPS)

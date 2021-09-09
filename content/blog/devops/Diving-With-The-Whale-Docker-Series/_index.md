@@ -4,9 +4,7 @@ draft: false
 ShowReadingTime: false
 hideSummary: false
 showtoc: false
-cover: 
-    image: ''
-weight: 2
+weight: 60
 ---
 
 # 5 Days Series of Docker Covering most of Docker, and Docker-Compose Concepts.
