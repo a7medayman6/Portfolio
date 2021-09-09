@@ -7,7 +7,7 @@ hideSummary: false
 showtoc: true
 cover: 
     image: ''
-weight: 1
+weight: 7
 ---
 
 # Software Development Life Cycle (SDLC)

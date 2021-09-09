@@ -7,7 +7,7 @@ hideSummary: false
 showtoc: true
 cover: 
     image: ''
-weight: 2
+weight: 6
 ---
 
 # Continuous Integration (CI) And Continuous Delivery (CD)

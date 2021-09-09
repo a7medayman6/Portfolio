@@ -7,7 +7,7 @@ hideSummary: false
 showtoc: true
 cover: 
     image: ''
-weight: 3
+weight: 5
 ---
 
 # DEVELOPMENT OPERATIONS (DEVOPS)

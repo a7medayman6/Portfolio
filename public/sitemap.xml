@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://a7medayman6.github.io/blog/devops/sdlc/</loc>
-    <lastmod>2021-07-28T00:10:45+02:00</lastmod>
+    <loc>https://a7medayman6.github.io/blog/devops/symphony-k8s/day-1/</loc>
+    <lastmod>2021-09-09T19:22:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://a7medayman6.github.io/blog/devops/symphony-k8s/</loc>
+    <lastmod>2021-09-09T16:59:49+02:00</lastmod>
   </url>
   
   <url>
@@ -21,13 +26,18 @@
   </url>
   
   <url>
+    <loc>https://a7medayman6.github.io/blog/devops/symphony-k8s/day-2/</loc>
+    <lastmod>2021-09-09T19:22:29+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://a7medayman6.github.io/thoughts/randoms/</loc>
     <lastmod>2021-08-04T02:28:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://a7medayman6.github.io/blog/devops/ci-cd/</loc>
-    <lastmod>2021-07-28T00:10:45+02:00</lastmod>
+    <loc>https://a7medayman6.github.io/blog/devops/diving-with-the-whale-docker-series/</loc>
+    <lastmod>2021-07-28T01:21:21+02:00</lastmod>
   </url>
   
   <url>
@@ -40,12 +50,17 @@
   </url>
   
   <url>
+    <loc>https://a7medayman6.github.io/blog/devops/symphony-k8s/day-3/</loc>
+    <lastmod>2021-09-09T19:22:32+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://a7medayman6.github.io/blog/devops/diving-with-the-whale-docker-series/day-iii/</loc>
     <lastmod>2021-07-28T00:34:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://a7medayman6.github.io/blog/devops/intro-to-devops/</loc>
+    <loc>https://a7medayman6.github.io/blog/devops/jenkins/</loc>
     <lastmod>2021-07-28T00:10:45+02:00</lastmod>
   </url>
   
@@ -73,28 +88,33 @@
   </url>
   
   <url>
-    <loc>https://a7medayman6.github.io/blog/devops/jenkins/</loc>
+    <loc>https://a7medayman6.github.io/blog/devops/intro-to-devops/</loc>
+    <lastmod>2021-07-28T00:10:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://a7medayman6.github.io/blog/devops/ci-cd/</loc>
+    <lastmod>2021-07-28T00:10:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://a7medayman6.github.io/blog/devops/sdlc/</loc>
     <lastmod>2021-07-28T00:10:45+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://a7medayman6.github.io/</loc>
-    <lastmod>2021-08-04T02:28:16+02:00</lastmod>
+    <lastmod>2021-09-09T19:22:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://a7medayman6.github.io/blog/</loc>
+    <lastmod>2021-09-09T19:22:32+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://a7medayman6.github.io/thoughts/</loc>
     <lastmod>2021-08-04T02:28:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://a7medayman6.github.io/blog/</loc>
-    <lastmod>2021-07-28T01:21:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://a7medayman6.github.io/blog/devops/diving-with-the-whale-docker-series/</loc>
-    <lastmod>2021-07-28T01:21:21+02:00</lastmod>
   </url>
   
   <url>

@@ -7,7 +7,7 @@ hideSummary: false
 showtoc: true
 cover: 
     image: ''
-weight: 5
+weight: 3
 ---
 
 ## What is Jenkins ?
